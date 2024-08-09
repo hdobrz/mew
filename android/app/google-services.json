@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691483208577",
+    "project_id": "mew-iq",
+    "storage_bucket": "mew-iq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691483208577:android:e307fb40f64479e51fd680",
+        "android_client_info": {
+          "package_name": "com.example.mew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPkfTAnmX5m9dDgo0i60TXZLy9S1IsWQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
